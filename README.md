@@ -18,4 +18,7 @@
 
 ---
 
-![Profile stats](https://github-readme-stats.vercel.app/api?username=MrGendo&show_icons=true&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrGendo&theme=github" height="160" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrGendo&theme=github" height="160" alt="languages" />
+</p>
