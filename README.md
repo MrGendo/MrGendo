@@ -1,11 +1,21 @@
-bin文件夹下存放着vscode的go语言工具
-pkg文件夹突然出现，不知道为什么 
-两者的出现应该都是因为GOPATH设置到了这里
-|--项目文件夹（go_program）也是GOPATH指向的文件夹
---------|---------src文件夹（src）专门存放源码文件
-----------------------------|------main文件夹 （main）存储package main包相关源码文件 命令文件
-----------------------------|------其他文件夹         存储package main包以外源码文件 非命令文件
---------|---------bin文件夹（bin）专门存储编译之后的可执行程序
---------|---------pkg文件夹（pkg）专门存储编译之后.a文件
-一般使用go install命令，对于非命令文件会执行编译检测，生成.a文件
-命令文件会执行编译检测，生成可执行程序
+# MrRao · MrGendo
+
+> Only opposed every day, will live stronger than you imagine.
+
+后端 / AI Infra 方向开发者。喜欢把想法做成能跑的系统——从多智能体平台到 MCP 网关，从零做到可用。
+
+## 🔭 Featured Projects
+
+| Project | About |
+| --- | --- |
+| **[Multi-Agent-AIOps-Platform](https://github.com/MrGendo/Multi-Agent-AIOps-Platform)** · Python | 多智能体 AIOps 平台：故障诊断与根因分析，8 个 MCP 服务，159 例离线测试，CI 双版本覆盖 |
+| **[StoryHeir 传家志](https://github.com/MrGendo/StoryHeir)** · JavaScript | 会主动采访老人的 AI 记者小程序：把家族口述记忆整理成编年史（微信小程序 + 云开发 + 阿里云百炼） |
+| **[mcp-bastion](https://github.com/MrGendo/mcp-bastion)** · Rust | 给独立开发者的 MCP 治理网关：一个二进制，开箱做聚合 / 认证 / 工具级 RBAC / 配额 / 审计 |
+
+## 🧰 Toolbox
+
+`Python` `Rust` `Go` `Svelte` `LLM / MCP 应用` `AIOps`
+
+---
+
+![Profile stats](https://github-readme-stats.vercel.app/api?username=MrGendo&show_icons=true&hide_border=true)
