@@ -11,6 +11,7 @@
 | **[Multi-Agent-AIOps-Platform](https://github.com/MrGendo/Multi-Agent-AIOps-Platform)** · Python | 多智能体 AIOps 平台：故障诊断与根因分析，8 个 MCP 服务，159 例离线测试，CI 双版本覆盖 |
 | **[StoryHeir 传家志](https://github.com/MrGendo/StoryHeir)** · JavaScript | 会主动采访老人的 AI 记者小程序：把家族口述记忆整理成编年史（微信小程序 + 云开发 + 阿里云百炼） |
 | **[mcp-bastion](https://github.com/MrGendo/mcp-bastion)** · Rust | 给独立开发者的 MCP 治理网关：一个二进制，开箱做聚合 / 认证 / 工具级 RBAC / 配额 / 审计 |
+| **lalida-kol-system** · TypeScript · 私有 | TikTok KOL 管理系统（Nexus）：达人筛选、名片库、转化漏斗、批次触达，多智能体匹配流水线 |
 
 ## 🧰 Toolbox
 
